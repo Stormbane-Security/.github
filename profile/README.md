@@ -10,24 +10,15 @@
     <strong>Find the holes. Fix the root cause. Ship with confidence.</strong><br />
     <sub>Offensive-minded security for teams who build in the cloud.</sub>
   </p>
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.stormbane.net"><img src="https://img.shields.io/badge/website-stormbane-5b7ee8?style=for-the-badge" alt="Website" /></a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.stormbane.net/scanning"><img src="https://img.shields.io/badge/scanning-overview-5b7ee8?style=for-the-badge" alt="Scanning" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.stormbane.net/services"><img src="https://img.shields.io/badge/consulting-services-5b7ee8?style=for-the-badge" alt="Consulting" /></a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.stormbane.net/blog"><img src="https://img.shields.io/badge/blog-read-5b7ee8?style=for-the-badge" alt="Blog" /></a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://www.stormbane.net"><img src="https://img.shields.io/badge/website-stormbane-5b7ee8?style=flat-square" alt="Website" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/scanning"><img src="https://img.shields.io/badge/scanning-overview-5b7ee8?style=flat-square" alt="Scanning" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/services"><img src="https://img.shields.io/badge/consulting-services-5b7ee8?style=flat-square" alt="Consulting" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/blog"><img src="https://img.shields.io/badge/blog-read-5b7ee8?style=flat-square" alt="Blog" /></a>
+  </p>
 </div>
 
 <br />
