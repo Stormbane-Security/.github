@@ -1,9 +1,9 @@
 <div align="center">
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" />
-      <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="252" style="display:block;margin-left:auto;margin-right:auto;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/org-wordmark-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/org-wordmark.svg" />
+      <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/org-wordmark.svg" alt="Stormbane Security" width="252" style="display:block;margin-left:auto;margin-right:auto;" />
     </picture>
   </p>
   <p align="center">
