@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stormbane-Security/stormbane.net/dev/public/logo-bolt-blue.png" alt="Stormbane Security" width="60" />
+  <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/logo.png" alt="Stormbane Security" width="60" />
 </p>
 
 <h1 align="center">Stormbane Security</h1>
