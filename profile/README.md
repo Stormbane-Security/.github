@@ -5,56 +5,76 @@
     <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="252" />
   </picture>
   <p>
-    <strong>We find security vulnerabilities in your infrastructure and fix them.</strong>
+    <strong>Find the holes. Fix the root cause. Ship with confidence.</strong><br />
+    <sub>Offensive-minded security for teams who build in the cloud.</sub>
   </p>
   <p>
-    <a href="https://www.stormbane.net">Website</a> · <a href="https://www.stormbane.net/scanning">Scanning</a> · <a href="https://www.stormbane.net/services">Consulting</a> · <a href="https://www.stormbane.net/blog">Blog</a>
+    <a href="https://www.stormbane.net"><img src="https://img.shields.io/badge/Website-stormbane-5b7ee8?style=for-the-badge" alt="Website" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/scanning"><img src="https://img.shields.io/badge/Scanning-overview-24262e?style=for-the-badge" alt="Scanning" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/services"><img src="https://img.shields.io/badge/Consulting-services-24262e?style=for-the-badge" alt="Consulting" /></a>
+    &nbsp;
+    <a href="https://www.stormbane.net/blog"><img src="https://img.shields.io/badge/Blog-writing-24262e?style=for-the-badge" alt="Blog" /></a>
   </p>
 </div>
 
+<br />
+
+> **We’re not here to bury you in PDFs.** Stormbane Security helps you **see** what actually matters in AWS, GCP, Azure, Kubernetes, pipelines, and IaC—then **work the fixes** in the same repos your engineers live in.
+
 ---
 
-### About
+### Who we are
 
-Stormbane Security is a security firm specializing in cloud infrastructure, Kubernetes, and CI/CD pipeline security. We combine AI-powered vulnerability scanning with hands-on consulting to help engineering teams find and eliminate attack surface before adversaries do.
+Cloud and platform security is where small mistakes become org-wide incidents. We combine **deep, tool-assisted discovery** with **hands-on remediation**: Terraform, CI/CD, clusters, identity, and the glue between them.
 
-We don't just hand you a report — we fix the problems.
+If we can automate a check, we do. If a human has to think like an attacker, we do that too.
 
-### What we do
+---
 
-**Scanning** — Automated, AI-enriched vulnerability scanning across your entire infrastructure. One-time assessments or continuous monitoring. We surface real attack paths, not noise.
+### What we ship
 
-**Consulting** — Hands-on remediation and hardening. We work directly in your Terraform, pipelines, and cluster configs to fix what we find.
+| | |
+| :--- | :--- |
+| **Scan** | **AI-assisted, continuous-friendly assessments**—one-off baselines or ongoing monitoring. Fewer false positives; more “an attacker could chain this” signal. |
+| **Consulting** | **Remediation in your stack**, not slides. We open PRs, tune policies, and harden the paths attackers actually use. |
+| **Research** | **Practical write-ups** on [the blog](https://www.stormbane.net/blog)—patterns we keep seeing in the wild, distilled so your team can act. |
 
-**Research** — We publish security research, vulnerability analysis, and practical guides on our [blog](https://www.stormbane.net/blog). If we find a pattern that keeps showing up in engagements, we write about it.
+---
 
-### Coverage
+### Where we focus
 
-| Domain | What we look at |
-|---|---|
-| **Cloud** | IAM, storage exposure, network segmentation, secrets in config (AWS, GCP, Azure) |
-| **Kubernetes** | RBAC, pod security, admission control, workload identity, supply chain |
-| **CI/CD** | GitHub Actions, GitLab CI, secrets handling, OIDC trust chains, runner isolation |
-| **IaC** | Terraform state, misconfigurations, drift detection |
-| **Web surface** | TLS, CORS, security headers, JWT, exposed endpoints |
+| Domain | Reality check |
+| :--- | :--- |
+| **Cloud** | IAM blast radius, public buckets & DBs, network edges, secrets in config—**AWS, GCP, Azure**. |
+| **Kubernetes** | RBAC, admission, workload identity, image supply chain, **what breaks when pods talk to the API**. |
+| **CI/CD** | GitHub Actions / GitLab, OIDC, runner isolation, **pipeline secrets that aren’t “someone rotated the token”**. |
+| **IaC** | Terraform & state, drift, **misconfigs that look boring until they’re not**. |
+| **Web surface** | TLS, headers, CORS, JWT misuse, **endpoints that shouldn’t exist on the public internet**. |
+
+---
 
 ### Open source
 
-We build and maintain security tooling in the open.
+Tools we maintain in public—inspect the code, run it yourself, open issues when something’s off.
 
-| Repository | Description |
-|---|---|
-| [**beacon**](https://github.com/Stormbane-Security/beacon) | AI-powered vulnerability scanner |
-| [**bulwark**](https://github.com/Stormbane-Security/bulwark) | Infrastructure hardening toolkit |
-
-### Contact
-
-- 🌐 [stormbane.net](https://www.stormbane.net)
-- 📧 hello@stormbane.net
-- 👤 Founded by [Patrick Putman](https://patrickputman.dev)
+| Repo | In one line |
+| :--- | :--- |
+| [**beacon**](https://github.com/Stormbane-Security/beacon) | **AI-powered scanner**—surface risk fast without pretending the machine replaced judgment. |
+| [**bulwark**](https://github.com/Stormbane-Security/bulwark) | **Hardening helpers**—opinionated guardrails for infra you can adopt incrementally. |
 
 ---
 
+### Contact
+
+| | | |
+| :---: | :---: | :---: |
+| **Web** | **Email** | **Founder** |
+| [stormbane.net](https://www.stormbane.net) | [hello@stormbane.net](mailto:hello@stormbane.net) | [Patrick Putman](https://patrickputman.dev) |
+
+<br />
+
 <p align="center">
-  <sub>Birmingham, AL · Serving clients worldwide</sub>
+  <sub>Birmingham, AL · Clients worldwide</sub>
 </p>
