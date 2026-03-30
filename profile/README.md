@@ -1,20 +1,19 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" />
-    <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="252" />
-  </picture>
-  <p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" />
+      <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="252" style="display:block;margin-left:auto;margin-right:auto;" />
+    </picture>
+  </p>
+  <p align="center">
     <strong>Find the holes. Fix the root cause. Ship with confidence.</strong><br />
     <sub>Offensive-minded security for teams who build in the cloud.</sub>
   </p>
-  <p>
+  <p align="center">
     <a href="https://www.stormbane.net"><img src="https://img.shields.io/badge/Website-stormbane-5b7ee8?style=for-the-badge" alt="Website" /></a>
-    &nbsp;
-    <a href="https://www.stormbane.net/scanning"><img src="https://img.shields.io/badge/Scanning-overview-24262e?style=for-the-badge" alt="Scanning" /></a>
-    &nbsp;
+    <a href="https://www.stormbane.net/scanning"><img src="https://img.shields.io/badge/Scanning-overview-24262e?style=for-the-badge" alt="Scanning" /></a><br /><br />
     <a href="https://www.stormbane.net/services"><img src="https://img.shields.io/badge/Consulting-services-24262e?style=for-the-badge" alt="Consulting" /></a>
-    &nbsp;
     <a href="https://www.stormbane.net/blog"><img src="https://img.shields.io/badge/Blog-writing-24262e?style=for-the-badge" alt="Blog" /></a>
   </p>
 </div>
@@ -35,11 +34,11 @@ If we can automate a check, we do. If a human has to think like an attacker, we 
 
 ### What we ship
 
-| | |
-| :--- | :--- |
-| **Scan** | **AI-assisted, continuous-friendly assessments**—one-off baselines or ongoing monitoring. Fewer false positives; more “an attacker could chain this” signal. |
-| **Consulting** | **Remediation in your stack**, not slides. We open PRs, tune policies, and harden the paths attackers actually use. |
-| **Research** | **Practical write-ups** on [the blog](https://www.stormbane.net/blog)—patterns we keep seeing in the wild, distilled so your team can act. |
+**Scan** — **AI-assisted, continuous-friendly assessments**—one-off baselines or ongoing monitoring. Fewer false positives; more “an attacker could chain this” signal.
+
+**Consulting** — **Remediation in your stack**, not slides. We open PRs, tune policies, and harden the paths attackers actually use.
+
+**Research** — **Practical write-ups** on [the blog](https://www.stormbane.net/blog)—patterns we keep seeing in the wild, distilled so your team can act.
 
 ---
 
@@ -59,18 +58,15 @@ If we can automate a check, we do. If a human has to think like an attacker, we 
 
 Tools we maintain in public—inspect the code, run it yourself, open issues when something’s off.
 
-| Repo | In one line |
-| :--- | :--- |
-| [**beacon**](https://github.com/Stormbane-Security/beacon) | **AI-powered scanner**—surface risk fast without pretending the machine replaced judgment. |
-| [**bulwark**](https://github.com/Stormbane-Security/bulwark) | **Hardening helpers**—opinionated guardrails for infra you can adopt incrementally. |
+- [**beacon**](https://github.com/Stormbane-Security/beacon) — **AI-powered scanner.** Surface risk fast without pretending the machine replaced judgment.
+- [**bulwark**](https://github.com/Stormbane-Security/bulwark) — **Hardening helpers.** Opinionated guardrails for infra you can adopt incrementally.
 
 ---
 
 ### Contact
 
-| | | |
+| Web | Email | Founder |
 | :---: | :---: | :---: |
-| **Web** | **Email** | **Founder** |
 | [stormbane.net](https://www.stormbane.net) | [hello@stormbane.net](mailto:hello@stormbane.net) | [Patrick Putman](https://patrickputman.dev) |
 
 <br />
