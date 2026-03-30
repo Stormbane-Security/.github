@@ -1,18 +1,16 @@
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" />
     <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="252" />
   </picture>
-</p>
-
-<p align="center">
-  <strong>We find security vulnerabilities in your infrastructure and fix them.</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.stormbane.net">Website</a> · <a href="https://www.stormbane.net/scanning">Scanning</a> · <a href="https://www.stormbane.net/services">Consulting</a> · <a href="https://www.stormbane.net/blog">Blog</a>
-</p>
+  <p>
+    <strong>We find security vulnerabilities in your infrastructure and fix them.</strong>
+  </p>
+  <p>
+    <a href="https://www.stormbane.net">Website</a> · <a href="https://www.stormbane.net/scanning">Scanning</a> · <a href="https://www.stormbane.net/services">Consulting</a> · <a href="https://www.stormbane.net/blog">Blog</a>
+  </p>
+</div>
 
 ---
 
