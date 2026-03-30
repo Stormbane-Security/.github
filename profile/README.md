@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.stormbane.net/logo.png" alt="Stormbane Security" width="80" />
+  <img src="https://raw.githubusercontent.com/Stormbane-Security/stormbane.net/dev/public/logo-bolt-blue.png" alt="Stormbane Security" width="60" />
 </p>
 
 <h1 align="center">Stormbane Security</h1>
@@ -9,50 +9,45 @@
 </p>
 
 <p align="center">
-  <a href="https://www.stormbane.net">stormbane.net</a> · <a href="https://www.stormbane.net/scanning">Scanning</a> · <a href="https://www.stormbane.net/services">Consulting</a> · <a href="https://www.stormbane.net/blog">Blog</a>
+  <a href="https://www.stormbane.net">Website</a> · <a href="https://www.stormbane.net/scanning">Scanning</a> · <a href="https://www.stormbane.net/services">Consulting</a> · <a href="https://www.stormbane.net/blog">Blog</a>
 </p>
 
 ---
 
+### About
+
+Stormbane Security is a security firm specializing in cloud infrastructure, Kubernetes, and CI/CD pipeline security. We combine AI-powered vulnerability scanning with hands-on consulting to help engineering teams find and eliminate attack surface before adversaries do.
+
+We don't just hand you a report — we fix the problems.
+
 ### What we do
 
-AI-powered vulnerability scanning and hands-on security consulting for cloud infrastructure, Kubernetes clusters, and CI/CD pipelines. We find the problems. Then we fix them.
+**Scanning** — Automated, AI-enriched vulnerability scanning across your entire infrastructure. One-time assessments or continuous monitoring. We surface real attack paths, not noise.
 
-```
-$ beacon scan --target your-infrastructure.com
-[*] Scanning target surface...
-[+] Port 443/tcp open — TLS 1.2 (weak cipher)
-[!] CVE-2024-3094 — xz backdoor detected
-[+] Exposed .env — 3 secrets
-[✓] 3 findings · 1 critical · report ready
-```
+**Consulting** — Hands-on remediation and hardening. We work directly in your Terraform, pipelines, and cluster configs to fix what we find.
 
-### Services
-
-| | Service | Description |
-|---|---|---|
-| 🔍 | **AI Vulnerability Scanning** | Automated scanning across cloud, Kubernetes, CI/CD, IaC, and web surface. One-time or continuous. |
-| 🛠 | **Security Consulting** | Hands-on remediation — we fix issues directly in your Terraform, pipelines, and cluster configs. |
-| 📄 | **Reporting & Prioritization** | AI-enriched reports with real attack paths, not just CVE dumps. Prioritized by actual exploitability. |
+**Research** — We publish security research, vulnerability analysis, and practical guides on our [blog](https://www.stormbane.net/blog). If we find a pattern that keeps showing up in engagements, we write about it.
 
 ### Coverage
 
-- **Cloud** — IAM, storage exposure, network segmentation, secrets in config (AWS, GCP, Azure)
-- **Kubernetes** — RBAC, pod security, admission control, workload identity, supply chain
-- **CI/CD** — GitHub Actions, GitLab CI, secrets handling, OIDC trust chains, runner isolation
-- **IaC** — Terraform state, misconfigurations, drift detection
-- **Web** — TLS, CORS, security headers, JWT, exposed endpoints
+| Domain | What we look at |
+|---|---|
+| **Cloud** | IAM, storage exposure, network segmentation, secrets in config (AWS, GCP, Azure) |
+| **Kubernetes** | RBAC, pod security, admission control, workload identity, supply chain |
+| **CI/CD** | GitHub Actions, GitLab CI, secrets handling, OIDC trust chains, runner isolation |
+| **IaC** | Terraform state, misconfigurations, drift detection |
+| **Web surface** | TLS, CORS, security headers, JWT, exposed endpoints |
 
-### Open Source
+### Open source
+
+We build and maintain security tooling in the open.
 
 | Repository | Description |
 |---|---|
-| [**beacon**](https://github.com/Stormbane-Security/beacon) | AI-powered vulnerability scanner. Point it at a target, get a prioritized report. |
-| [**bulwark**](https://github.com/Stormbane-Security/bulwark) | Infrastructure hardening toolkit. |
+| [**beacon**](https://github.com/Stormbane-Security/beacon) | AI-powered vulnerability scanner |
+| [**bulwark**](https://github.com/Stormbane-Security/bulwark) | Infrastructure hardening toolkit |
 
 ### Contact
-
-Have a security concern or need an audit?
 
 - 🌐 [stormbane.net](https://www.stormbane.net)
 - 📧 hello@stormbane.net
