@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option1.svg" />
-    <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option1.svg" alt="Stormbane Security" width="420" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" />
+    <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/banner-option4.svg" alt="Stormbane Security" width="400" />
   </picture>
 </p>
 
