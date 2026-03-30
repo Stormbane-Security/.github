@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/logo.png" alt="Stormbane Security" width="60" />
+  <img src="https://raw.githubusercontent.com/Stormbane-Security/.github/main/profile/logo.png" alt="Stormbane Security" width="360" />
 </p>
-
-<h1 align="center">Stormbane Security</h1>
 
 <p align="center">
   <strong>We find security vulnerabilities in your infrastructure and fix them.</strong>
